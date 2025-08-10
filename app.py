@@ -35,7 +35,7 @@ st.markdown("""
 # =====================
 @st.cache_data
 def load_data():
-    return pd.read_csv("data/zara_cleaned.csv")
+    return pd.read_csv("zara_cleaned.csv")
 
 df = load_data()
 
@@ -139,3 +139,4 @@ st.plotly_chart(fig_price_dist)
 # =====================
 st.subheader("📄 Data Penjualan (Filtered)")
 st.dataframe(filtered_df)
+
