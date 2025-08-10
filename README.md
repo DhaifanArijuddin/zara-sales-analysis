@@ -35,9 +35,8 @@ Analisis penjualan Zara untuk menemukan pola penjualan, tren musiman, dan rekome
 ## 📎 Link Penting
 - [📓 Notebook Google Colab](https://drive.google.com/file/d/1tYLBZqVMCeGyOYGf0Azoym9GpjvYGIEi/view?usp=sharing)
 - [📊 Dashboard Power BI](https://drive.google.com/file/d/12lkGD76fvh6fw3is-P7wpJ-Hv2okCMF9/view?usp=sharing)
-- [📑 Presentasi PPT (Google Drive)](https://docs.google.com/presentation/d/1oBsfSMgBO5Za3-uC_wCgjt_NPavBIRFl/edit?usp=sharing&ouid=117389827052193107361&rtpof=true&sd=true)
+- [📑 Presentasi PPT (Google Drive)](https://docs.google.com/presentation/d/1u-3fvNzsLjIMEK5pYXfR863VswfsPQD6/edit?usp=sharing&ouid=117389827052193107361&rtpof=true&sd=true)
 - [🚀 Aplikasi Disini](https://zara-sales-analysis-9h7nvh6zmejmu2qejwfmxm.streamlit.app/#zara-sales-analysis-dashboard)
-
 
 
 
